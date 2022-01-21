@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1642780655112
+Build-Jdk: 1.8.0_292
+Built-By: ur
+Bundle-Activator: com.ur.sample.watchSystemLoad.impl.Activator
+Bundle-Category: URCap
+Bundle-ContactAddress: 123 URCap Street
+Bundle-Copyright: Copyright notice (C)
+Bundle-Description: This is a description of the URCap
+Bundle-LicenseType: License type
+Bundle-ManifestVersion: 2
+Bundle-Name: watchSystemLoad
+Bundle-SymbolicName: com.ur.sample.watchSystemLoad
+Bundle-Vendor: URCaps R us Inc.
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Import-Package: com.ur.urcap.api.contribution.toolbar;version="[1.7,2)",
+ com.ur.urcap.api.contribution.toolbar.swing;version="[1.7,2)",javax.swi
+ ng,org.osgi.framework;version="[1.6,2)"
+Tool: Bnd-2.1.0.20130426-122213
+URCapCompatibility-CB3: false
+URCapCompatibility-eSeries: true
